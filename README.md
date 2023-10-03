@@ -4,6 +4,8 @@ Projects in Data Science and Programming
 
 ## Machine Learning from Scratch 
 
+[Machine Learning from Scratch](https://github.com/Matthiasst1/Data-Science-Portfolio/blob/main/Regression-tensorflow-and-self-programmed.ipynb)
+
 This is a Machine Learning from Scratch, bla bla bla .... TEXT TEXT TEXT TEXT TEXT TEXT
 Maybe more text TEXT TEXT TEXTTEXT TEXT TEXTTEXT TEXT TEXTTEXT TEXT TEXTTEXT TEXT TEXT
 
